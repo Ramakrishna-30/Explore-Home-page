@@ -1,0 +1,62 @@
+ 
+.container{
+    background-image:url("images/travel-nature-mountains.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.nav{
+    height: 80px;
+    width: auto;
+    color: black;
+    padding: 10px;
+    text-align: right;
+    
+
+}
+.contact{
+    
+    color:black;
+    font-size: 30px;
+    
+
+}
+.details-page{
+    height:100px ;
+    width: auto;
+    display: flex;
+     
+    padding: 10px;
+
+}
+
+ 
+    
+
+.li-list{
+    display: inline;
+    font-size: 30px;
+    margin: 0 15px;
+}
+
+
+.a-tag{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+ }
+
+
+.logo{
+    height: 80px;
+    width: 100px;
+    
+    
+}
+
+
+
+ 
